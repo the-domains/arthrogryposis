@@ -2,34 +2,36 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.seattlechildrens.org'
-  name: Seattlechildrens
-  favicon: 'http://www.seattlechildrens.org/core/img/ui/favicon.ico'
-  domain: www.seattlechildrens.org
+  url: 'https://en.wikipedia.org'
+  name: Wikipedia
+  favicon: 'https://en.wikipedia.org/static/favicon/wikipedia.ico'
+  domain: en.wikipedia.org
 keywords:
   - arthrogryposis
-  - joints
-  - child
-  - children
-  - baby
+  - contracture
+  - distal
+  - joint
+  - syndrome
+  - congenita
+  - amyoplasia
+  - multiplex
   - muscle
-  - womb
-  - akinesia
-  - normally
-  - fetal
+  - abnormality
 description: >-
-  Arthrogryposis (arth-ro-grip-OH-sis) means a child is born with joint
-  contractures. This means some of their joints don't move as much as normal and
-  may even be stuck in one position. Often the muscles around these joints are
-  thin, weak, stiff or missing. Extra tissue may have formed around the joints,
-  holding them in place.
+  Arthrogryposis multiplex congenita (AMC), or simply arthrogryposis, describes
+  congenital joint contractures in two or more areas of the body. It derives its
+  name from Greek, literally meaning "curving of joints" ( arthron, "joint";
+  grȳpōsis, late Latin form of late Greek grūpōsis, "hooking").
 inLanguage: en
-app_links: []
-isBasedOnUrl: >-
-  http://www.seattlechildrens.org/medical-conditions/bone-joint-muscle-conditions/arthrogryposis/
+app_links:
+  - path: http/en.m.wikipedia.org/wiki/Arthrogryposis
+    package: org.wikipedia
+    namespace: google
+    type: android
+isBasedOnUrl: 'https://en.wikipedia.org/wiki/Arthrogryposis'
 title: Arthrogryposis
-datePublished: '2016-08-10T18:23:29.831Z'
-dateModified: '2016-08-10T18:22:55.987Z'
+datePublished: '2016-08-10T18:23:39.702Z'
+dateModified: '2016-08-10T18:22:25.726Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-10-arthrogryposis.md
@@ -40,4 +42,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Arthrogryposis</h1><p>Arthrogryposis (arth-ro-grip-OH-sis) means a child is born with joint contractures. This means some of their joints don't move as much as normal and may even be stuck in one position. Often the muscles around these joints are thin, weak, stiff or missing. Extra tissue may have formed around the joints, holding them in place.</p><img src="http://www.seattlechildrens.org/uploadedImages/Siteroot_Resources/Global_Settings/Seattle-Childrens-Logo.png" /></article>
+<article style=""><h1>Arthrogryposis</h1><p>Arthrogryposis multiplex congenita (AMC), or simply arthrogryposis, describes congenital joint contractures in two or more areas of the body. It derives its name from Greek, literally meaning "curving of joints" ( arthron, "joint"; grȳpōsis, late Latin form of late Greek grūpōsis, "hooking").</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lee_Pearson%2C_October_2008.jpg/220px-Lee_Pearson%2C_October_2008.jpg" /></article>
