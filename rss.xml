@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Arthrogryposis]]></title>
         <description><![CDATA[Arthrogryposis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/arthrogryposis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 18:23:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Aug 2016 18:23:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/arthrogryposis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arthrogryposis]]></title>
+            <description><![CDATA[<article><h1>Arthrogryposis</h1><p>Arthrogryposis multiplex congenita (AMC), or simply arthrogryposis, describes congenital joint contractures in two or more areas of the body. It derives its name from Greek, literally meaning "curving of joints" ( arthron, "joint"; grȳpōsis, late Latin form of late Greek grūpōsis, "hooking").</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/734783ad74fadf2bd626367acacf2b2c/noop.jpg?input=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Faa%2FLee_Pearson%252C_October_2008.jpg%2F220px-Lee_Pearson%252C_October_2008.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Arthrogryposis</link>
+            <guid isPermaLink="false">40dda221-3994-4580-a45f-1ed2e92d2440</guid>
+            <pubDate>Wed, 10 Aug 2016 18:23:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Arthrogryposis]]></title>
             <description><![CDATA[<article><h1>Arthrogryposis</h1><p>Arthrogryposis (arth-ro-grip-OH-sis) means a child is born with joint contractures. This means some of their joints don't move as much as normal and may even be stuck in one position. Often the muscles around these joints are thin, weak, stiff or missing. Extra tissue may have formed around the joints, holding them in place.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3e5ce9520f4c61abc79618c86b90d773/croprotate.png?cropheight=562&cropwidth=1141&degrees=0&input=http%3A%2F%2Fwww.seattlechildrens.org%2FuploadedImages%2FSiteroot_Resources%2FGlobal_Settings%2FSeattle-Childrens-Logo.png&x=33&y=32"></article>]]></description>
